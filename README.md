@@ -9,7 +9,7 @@ Hope to talk to you soon!
 
 Caree
 
-# Available Gulp Tasks:
+## Available Gulp Tasks:
 * 'gulp' - default task. Will return a special message to Credera.
 * 'gulp compile-sass' - Will compile Sass and output to a CSS folder
 * 'gulp watch' - My favorite. Will watch your files for changes and automatically compile and deploy.
