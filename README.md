@@ -7,4 +7,4 @@ Thanks for letting me do this code challenge! A few things:
 
 Hope to talk to you soon!
 
-- Caree
+Caree
