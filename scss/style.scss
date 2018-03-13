@@ -1,0 +1,67 @@
+$accent-color: #dd7537;
+
+body {
+	background-color: #f0f0f0;
+}
+
+.card-container {
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	font-family: 'Merriweather', serif;
+	height: 564px;
+	position: relative;
+	margin: 50px;
+	width: 390px;
+
+}
+
+.article-image {
+	border-bottom: 7px solid $accent-color;
+	height: 220px;
+	background-image: url(http://caree.codes/credera/bg.png);
+	background-size: cover;
+}
+
+.article-body {
+	margin: 35px 45px;
+}
+
+.article-date {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #b1b1b1;
+	font-size: 16px;
+	margin-bottom: 5px;
+	letter-spacing: 1px;
+}
+
+.article-title {
+	color: #4d4d4e;
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	line-height: 1.25;
+	margin-bottom: 15px;
+}
+
+.article-blurb {
+	color: #727272;
+	line-height: 1.5;
+	word-spacing: 2px;
+}
+
+.article-link {
+	bottom: 45px;
+	color: $accent-color;
+	font-family: 'Lato', san-serif;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	position: absolute;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+	&:hover {
+		color: darken($accent-color, 10%);
+	}
+}
