@@ -6,4 +6,5 @@ Thanks for letting me do this code challenge! A few things:
 * If you have any questions, email me at caree@caree.codes
 
 Hope to talk to you soon!
-Caree
+
+- Caree
